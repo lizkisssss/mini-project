@@ -69,7 +69,7 @@ body {
   background-color: #fafafa;  
 }
 
-.info {
+.stats {
   display: flex;
   justify-content: space-evenly;
   font-size: 14px;
@@ -96,7 +96,7 @@ body {
   cursor: zoom-in;
 }
 
-.info-item {
+.stats-item {
   display: flex;
   flex-direction: column;
   align-items: center;
